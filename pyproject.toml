@@ -14,6 +14,7 @@ dependencies = [
     "langchain-openai>=0.3.18",
     "langgraph>=0.4.7",
     "markdown>=3.8",
+    "notebook>=7.4.3",
     "pygithub>=2.6.1",
     "pypdf>=5.5.0",
     "python-dotenv>=1.1.0",
