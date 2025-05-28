@@ -1,0 +1,37 @@
+Here are some scientific papers that discuss Symbolic Fourier Aggregation (SFA) and Symbolic Aggregate Approximation (SAX) in the context of process mining and related fields:
+
+### Symbolic Fourier Aggregation (SFA)
+
+1. **ASTRIDE: Adaptive Symbolization for Time Series Databases**
+   - **Authors**: Sylvain W. Combettes, Charles Truong, Laurent Oudre
+   - **Year**: 2023
+   - **Summary**: This paper introduces ASTRIDE, a novel symbolic representation of time series, and compares it with SAX and SFA. It highlights the use of SFA in adaptive quantization of the frequency domain for time series data.
+   - **Link**: [arXiv](https://arxiv.org/abs/2302.008)
+
+2. **Fast and Exact Similarity Search in less than a Blink of an Eye**
+   - **Authors**: Patrick Schäfer, Jakob Brand, Ulf Leser, Botao Peng, Themis Palpanas
+   - **Year**: 2024
+   - **Summary**: This work presents the SymbOlic Fourier Approximation index (SOFA), which uses SFA for fast, exact similarity queries in high-frequency data series.
+   - **Link**: [arXiv](https://arxiv.org/abs/2404.120)
+
+### Symbolic Aggregate Approximation (SAX)
+
+1. **SAX-ARM: Deviant Event Pattern Discovery from Multivariate Time Series Using Symbolic Aggregate Approximation and Association Rule Mining**
+   - **Authors**: H. Park, J.Y. Jung
+   - **Year**: 2020
+   - **Summary**: This paper discusses SAX-ARM, which combines SAX with association rule mining to discover deviant event patterns in multivariate time series.
+   - **Link**: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0957417419306682)
+
+2. **Performance Examination of Symbolic Aggregate Approximation in IoT Applications**
+   - **Authors**: S. Veljanovska, H.D. Doran
+   - **Year**: 2024
+   - **Summary**: This study examines the performance of SAX in IoT applications, focusing on its dimensionality reduction capabilities.
+   - **Link**: [arXiv](https://arxiv.org/abs/2405.19817)
+
+3. **Symbolic Aggregate Approximation (SAX)**
+   - **Authors**: K. Feasel
+   - **Year**: 2022
+   - **Summary**: This chapter provides an overview of SAX, its process, and its application in anomaly detection and time series analysis.
+   - **Link**: [Springer](https://link.springer.com/chapter/10.1007/978-1-4842-8870-2_17)
+
+These papers provide insights into how SFA and SAX are applied in time series analysis, which is relevant to process mining for handling and analyzing event logs.

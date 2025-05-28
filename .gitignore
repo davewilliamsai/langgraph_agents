@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Documents
+.env
+peronal_infomation.txt
+daves-agent-app.2025-05-28.private-key.pem
+literature/
+chroma_store/
+docs_pm4py/
+
+# JupyterNotebooks
+master_thesis_writer.ipynb
+test.ipynb

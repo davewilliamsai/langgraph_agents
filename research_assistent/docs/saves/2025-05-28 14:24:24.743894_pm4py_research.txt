@@ -1,0 +1,27 @@
+Here are some scientific papers that have utilized PM4Py in their research, along with their links:
+
+1. **Developing a High-Performance Process Mining Library with Java and Python Bindings in Rust**
+   - **Authors**: Aaron Küsters, Wil M. P. van der Aalst
+   - **Published**: 2024
+   - **Summary**: This paper discusses the development of a shared process mining library in Rust with bindings to both Java and Python, allowing integration into existing ecosystems like ProM and PM4Py. The approach aims to achieve superior performance while maintaining memory safety.
+   - [Read more](https://arxiv.org/abs/2401.025)
+
+2. **PM4Py.LLM: a Comprehensive Module for Implementing PM on LLMs**
+   - **Authors**: Alessandro Berti
+   - **Published**: 2024
+   - **Summary**: The paper examines how PM4Py implements process mining on large language models (LLMs), addressing challenges such as privacy and context window limits.
+   - [Read more](https://arxiv.org/abs/2404.009)
+
+3. **Navigating Process Mining: A Case study using pm4py**
+   - **Authors**: Ali Jlidi, László Kovács
+   - **Published**: 2024
+   - **Summary**: This study presents an analysis of road traffic fine management processes using PM4Py. It explores event log datasets and applies various process-mining algorithms to discover process models, providing insights for process optimization.
+   - [Read more](https://arxiv.org/abs/2409.017)
+
+4. **Process Mining for Python (PM4Py): Bridging the Gap Between Process- and Data Science**
+   - **Authors**: Alessandro Berti, Sebastiaan J. van Zelst, Wil van der Aalst
+   - **Published**: 2019
+   - **Summary**: The paper highlights the evolution of process mining and introduces PM4Py as a tool that bridges the gap between process and data science, offering support for implementing custom algorithms and facilitating large-scale experimental settings.
+   - [Read more](https://arxiv.org/abs/1905.015)
+
+These papers provide insights into the application and development of PM4Py in various research contexts.

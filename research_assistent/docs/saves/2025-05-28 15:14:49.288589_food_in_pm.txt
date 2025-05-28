@@ -1,0 +1,33 @@
+Here are five relevant papers on the applications of process mining in food processing industries:
+
+1. **Process mining-enhanced quality management in food processing industries**
+   - **Authors**: P Loacker, S Pöchtrager, C Fikar et al.
+   - **Year**: 2025
+   - **Link**: [Emerald](https://www.emerald.com/insight/content/doi/10.1108/IJPPM-06-2024-0377/full/html)
+   - **Summary**: This study focuses on the application of process mining in the food processing industry, particularly in enhancing quality management. It reviews literature to identify the primary objectives and applications of process mining in this sector.
+
+2. **A process mining approach for process analysis in the food industry**
+   - **Authors**: P De Giovanni, MJ Ojobor, M Mastella
+   - **Year**: 2021
+   - **Link**: [ResearchGate](https://www.researchgate.net/profile/Matteo_Mastella/publication/353244029_A_Process_Mining_Approach_for_Process_Analysis_in_the_Food_Industry/links/60eef81a0859317dbde2a698/A-Process-Mining-Approach-for-Process-Analysis-in-the-Food-Industry.pdf)
+   - **Summary**: This paper discusses the use of process mining for process analysis in the food industry, highlighting the methodologies and modeling languages used in process mining.
+
+3. **Process mining and industrial applications: A systematic literature review**
+   - **Authors**: A Corallo, M Lazoi, F Striani
+   - **Year**: 2020
+   - **Link**: [Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/kpm.1630)
+   - **Summary**: This systematic literature review explores various industrial applications of process mining, including potential applications in the food industry, emphasizing the product life cycle phases.
+
+4. **On the application of process management and process mining to industry 4.0**
+   - **Authors**: F Monti, JG Mathew, F Leotta, A Koschmider et al.
+   - **Year**: 2024
+   - **Link**: [Springer](https://link.springer.com/article/10.1007/s10270-024-01175-z)
+   - **Summary**: This paper analyzes the applications of process management and process mining in Industry 4.0, including a case study on process adaptation and mining in industrial settings.
+
+5. **Advanced control systems in industry 5.0 enabling process mining**
+   - **Authors**: A Massaro
+   - **Year**: 2022
+   - **Link**: [MDPI](https://www.mdpi.com/1424-8220/22/22/8677)
+   - **Summary**: The paper discusses advanced control systems in Industry 5.0, focusing on process mining applications in specific sectors like food processing and energy production, including a case study on food roasting processes.
+
+These papers provide insights into how process mining is being applied in the food processing industry, highlighting both current applications and future potential.
