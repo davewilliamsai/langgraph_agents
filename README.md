@@ -10,4 +10,5 @@ Tools in use:
 - Saving to .txt
 
 For this agent you need an OpenAI and SERP API key stored in an .env-file.
-[graph](https://github.com/user-attachments/assets/90a57800-6c7d-4682-af43-6c14baa1b45b)
+
+<img src="https://github.com/user-attachments/assets/90a57800-6c7d-4682-af43-6c14baa1b45b" width="250" />
