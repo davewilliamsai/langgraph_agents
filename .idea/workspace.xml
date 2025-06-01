@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="364f0ffa-8548-4ed2-afad-4aabfb79bca9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail_assistent/testing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mail_assistent/testing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/dave/programming/python/langgraph_agents",
+    "last_opened_file_path": "/home/dave/programming/python/langgraph_agents/research_assistent",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,7 +68,7 @@
       <workItem from="1748458221574" duration="1299000" />
       <workItem from="1748460296895" duration="244000" />
       <workItem from="1748460549584" duration="1020000" />
-      <workItem from="1748801403205" duration="7972000" />
+      <workItem from="1748801403205" duration="9007000" />
     </task>
     <servers />
   </component>
